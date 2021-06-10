@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <div>
   <a href="https://github.com/suzkiee">
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=suzkiee&show_icons=true&theme=radical" />
+     <img align="left" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=suzkiee&show_icons=true&theme=radical" />
   </a>
 </div>
 <div>
 <a href="https://github.com/suzkiee">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SUZKIEE&layout=compact&theme=radical" />
+  <img align="left" display="inline-block" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SUZKIEE&layout=compact&theme=radical" />
 </a>
  </div>
