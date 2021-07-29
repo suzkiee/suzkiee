@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div align="center">
   <a href="https://github.com/suzkiee">
      <img align="center" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=suzkiee&show_icons=true&theme=radical" />
   </a>
 </div>
-<div>
+<div align="center">
 <a href="https://github.com/suzkiee">
   <img align="center" display="inline-block" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SUZKIEE&layout=compact&theme=radical" />
 </a>
