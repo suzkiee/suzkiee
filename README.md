@@ -1,5 +1,5 @@
 ### Heyo! I'm Suzie ✨
-I am a lifelong crafter. Whether it's writing youth program curriculum , sewing clothes or building this website, I love being able to tinker with things and say "I made this!" 
+I am a lifelong crafter. Whether it's [writing youth program curriculum](https://spark.adobe.com/page/3NDdniijyPY7C/), [sewing clothes](https://www.instagram.com/sewziethreds/) or building this website, I love being able to tinker with things and say "I made this!" 
 
 I'm excited to dedicate my extensive professional experience in project and team management and my technical skills to a company who's mission I really believe in. 
 
