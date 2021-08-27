@@ -35,5 +35,6 @@ I'm excited to dedicate my extensive professional experience in project and team
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+  ![GraphQL](https://img.shields.io/badge/graphql-%20-blue)
     
 </section>
