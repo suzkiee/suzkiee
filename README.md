@@ -23,18 +23,48 @@ I'm excited to dedicate my extensive professional experience in project and team
  
 ## Tech
 <section align="left">
-  
-  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=plastic&logo=ruby)
-  ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=plastic&logo=ruby-on-rails)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=plastic&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/-MySQL-c9dbe8?style=plastic&logo=mysql)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-302244?style=plastic&logo=bootstrap)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![GraphQL](https://img.shields.io/badge/graphql-%20-blue)
-    
+ 
+#### LANGUAGES
+<p>
+  <img src="https://img.shields.io/badge/ruby%20-D14836.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20-7119C2.svg?style=for-the-badge&logo=SQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/ActiveRecord%20-201E84.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5%20-2A42D0.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3%20-25D366.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript%20-2B628B.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
+ 
+ #### FRAMEWORKS 
+ <p>
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-D14836.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white" />
+   <img src="https://img.shields.io/badge/React-1A4FE5.svg?&style=for-the-badge&logo=react&logoColor=white" />
+</p>
+ 
+ 
+### TOOLS 
+<p>
+  <img src="https://img.shields.io/badge/GraphQL-25D366?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/rspec%20-2A42D0.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
+  <img src="https://img.shields.io/badge/Altair%20-2A42D0.svg?&style=for-the-badge&logo=altair&logoColor=white" />
+  <img src="https://img.shields.io/badge/heroku%20-25D366.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/travis--ci-7119C2.svg?&style=for-the-badge&logo=travis&logoColor=white" />
+  <img src="https://img.shields.io/badge/CircleCI%20-7119C2.svg?&style=for-the-badge&logo=CI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres%20-201E84.svg?&style=for-the-badge&logo=Postgres&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postico%20-2A42D0.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20-25D366.svg?&style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-25D366.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/hound-201E84.svg?&style=for-the-badge&logo=hound&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-2A42D0.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atom-201E84.svg?&style=for-the-badge&logo=atom&logoColor=white" />                                                                                                        
+</p>
+
+
+#### PROCESSES
+<p>
+  <img src="https://img.shields.io/badge/OOP%20-201E84.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDD%20-2A42D0.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC%20-25D366.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20-7119C2.svg?&style=for-the-badge&logo=REST&logoColor=white" />
+</p>
+
 </section>
