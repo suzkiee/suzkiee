@@ -41,7 +41,7 @@ I'm excited to dedicate my extensive professional experience in project and team
 </p>
  
  
-### TOOLS 
+#### TOOLS 
 <p>
   <img src="https://img.shields.io/badge/GraphQL-25D366?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/rspec%20-2A42D0.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
