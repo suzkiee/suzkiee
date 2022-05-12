@@ -13,10 +13,10 @@ I'm excited to dedicate my extensive professional experience in project and team
 <section align="center" >
 <div>
   <a href="https://github.com/suzkiee">
-     <img align="center" display="inline-block" vertical-align="top" src="https://github-readme-stats.vercel.app/api?username=suzkiee&show_icons=true&theme=radical" />
+     <img align="center" display="inline-block" vertical-align="top" src="https://github-readme-stats.vercel.app/api?username=suzkiee&show_icons=true&theme=radical&count_private=true" />
   </a>
   <a href="https://github.com/suzkiee">
-  <img align="center" display="inline-block" vertical-align="top" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SUZKIEE&layout=compact&theme=radical" />
+  <img align="center" display="inline-block" vertical-align="top" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SUZKIEE&layout=compact&theme=radical&count_private=true" />
   </a>
 </div>
 </section>
